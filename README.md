@@ -2,3 +2,4 @@
 
 1. commit
 2. Branch
+3. Merge
